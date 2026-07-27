@@ -1,3 +1,3 @@
 CONTAbit
 
-**Versione corrente: 0.2.0**
+**Versione corrente: 0.2.1**
